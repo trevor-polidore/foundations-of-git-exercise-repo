@@ -6,5 +6,11 @@ const shoutLouder = () => {
     console.log("HELLO!!!");
 }
 
-shout();
-shoutLouder();
+const shoutTimes = times => {
+    for (i = 0; i <  times; i++){
+        shout();
+    }
+}
+
+shoutTimes(4);
+
