@@ -10,4 +10,8 @@ function step(num) {
     console.log(stp);
 }
 
+export function skip(num) {
+
+}
+
 walk(20);
