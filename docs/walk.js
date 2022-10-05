@@ -1,6 +1,6 @@
 
-function walk(steps) {
-    for(i = 0; i < steps; i++){
+export function walk(steps) {
+    for(let i = 0; i < steps; i++){
         step(i);
     }
 }
@@ -10,4 +10,6 @@ function step(num) {
     console.log(stp);
 }
 
-walk(20);
+export function skip(num) {
+
+}

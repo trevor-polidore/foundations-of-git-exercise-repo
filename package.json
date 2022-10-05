@@ -1,0 +1,23 @@
+{
+  "name": "foundations-of-git-exercise-repo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Welcome! This is the sandbox repository for the [Foundations of Git](https://learn.gitkraken.com) course. Use this repository for exercise lessons, or as a sandbox for your own exploration.",
+  "main": "person.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevor-polidore/foundations-of-git-exercise-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevor-polidore/foundations-of-git-exercise-repo/issues"
+  },
+  "homepage": "https://github.com/trevor-polidore/foundations-of-git-exercise-repo#readme"
+}
