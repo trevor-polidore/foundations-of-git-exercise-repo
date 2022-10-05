@@ -1,5 +1,5 @@
 export const shoutTimes = times => {
-    for (i = 0; i <  times; i++){
+    for (let i = 0; i <  times; i++){
         shout();
     }
 }

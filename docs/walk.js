@@ -1,6 +1,6 @@
 
 export function walk(steps) {
-    for(i = 0; i < steps; i++){
+    for(let i = 0; i < steps; i++){
         step(i);
     }
 }
