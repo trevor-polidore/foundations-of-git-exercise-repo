@@ -9,3 +9,7 @@ function step(num) {
     let stp = num % 2 === 0 ? "left" : "right"
     console.log(stp);
 }
+
+export function skip(num) {
+
+}
