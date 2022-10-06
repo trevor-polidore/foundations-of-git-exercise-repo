@@ -11,5 +11,5 @@ function step(num) {
 }
 
 export function skip(num) {
-
+    
 }
