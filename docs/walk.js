@@ -10,6 +10,6 @@ function step(num) {
     console.log(stp);
 }
 
-export function skip(num) {
+export function skip(tttttt) {
     
 }
